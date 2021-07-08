@@ -1,6 +1,10 @@
 Program Name: SimpleNumbersProcessor (ASimpNPro)
+
 Written in: Java
+
 Version: 1.0
+
+===
 
 A simple number processor (ASimpNPro) that accepts numbers from users and then process it (ascending sort from small to big, count average, count median, and count the total multiplication of all the numbers).
 
