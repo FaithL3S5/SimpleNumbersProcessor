@@ -29,7 +29,7 @@ ASimpNPro works with user defined Array, making the user free to customize how m
 How to Use?
 
 From CMD/Terminal:
-1. User must have Java Runtime Environment installed on their device
+1. User must have Java Runtime Environment (JRE) min. version 8 installed on their device
 2. User download the .jar file of this repository
 3. User extracts the .jar file to a desired directory
 4. User opens the command prompt/terminal
@@ -38,6 +38,8 @@ From CMD/Terminal:
 7. User operates the program
 
 or just download the .jar and .bat file together then execute the .bat file (windows only)
+
+device that already has JRE installed may run the .jar file directly by double clicking the file (some device may not work with this method)
 
 From IDE:
 1. User download this repository
